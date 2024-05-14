@@ -1,0 +1,57 @@
+.table{
+  background-color: blue;
+  color: white;
+  /* width: 50%;  */
+  
+
+    
+}
+.hello {
+  
+  /* display: block;  */
+  padding-left: 300px;
+}
+
+.main{
+  border-collapse: collapse;
+  /* align-items: center; */
+  justify-content: center;
+  /* border: none; */
+}
+
+
+.search {
+    height: 24px;
+    width: 376px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+}
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+tr:nth-child(even) {
+  background-color: rgb(220, 216, 216)
+}
+.content{
+  font-weight: bold;
+}
+.input{
+  height: 30px;
+  width: 600px;
+  margin-left: 10%;
+  margin-bottom: 5%;
+  border: 2px solid black;
+
+}
+/* .head{
+  border: none;
+  font-weight: bold;
+}
+.body{
+  border: none;
+} */
